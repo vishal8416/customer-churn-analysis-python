@@ -154,4 +154,4 @@ This project demonstrates how data analytics can be leveraged to understand cust
 
 Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
 
-Connect with me on LinkedIn and explore more analytics projects on GitHub.
+LinkedIn: https://www.linkedin.com/in/vishalawasthi0804/
